@@ -1,0 +1,14 @@
+{
+  "name": "techverse-gadgets",
+  "version": "1.0.0",
+  "description": "TechVerse - Modern E-Commerce Landing Page for Tech Gadgets",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
